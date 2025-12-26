@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Moattar Project Pipeline - Placental Ultrasound Analysis
 
 *Inference-only pipeline for processing unlabeled ultrasound images (no training required)*
@@ -117,3 +118,7 @@ These can be added later if pre-trained models become available.
 
 **Last Updated**: December 25, 2025
 **Version**: 1.0 (Inference Only)
+=======
+# my-project
+My FYP project and here I'll improve my AI skills .
+>>>>>>> 67dacc54908978b012300e389603ffc4b9f303e3
