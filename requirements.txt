@@ -1,0 +1,30 @@
+# Requirements for Moattar Project Pipeline - Inference Only
+# Minimal dependencies for processing unlabeled data without training
+
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.4.0
+Pillow>=8.0.0
+tqdm>=4.62.0
+
+# Deep learning (optional, for future model loading)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image augmentation (optional)
+albumentations>=1.3.0
+
+# For model architectures (optional)
+segmentation-models-pytorch>=0.3.0
+timm>=0.9.0
+
+# For interpretability (optional)
+pytorch-grad-cam>=1.4.0
+
+# Machine learning utilities (optional)
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Federated learning (optional)
+flwr>=1.5.0
